@@ -8,7 +8,7 @@ Practicing my Python skills through mini-projects, containing:
 <img src="https://github.com/nadyakant/Python/blob/main/currencyConverter_2.png" width="400" height="400">
 </p>
 
-> - [x] [Snake Game](https://github.com/nadyakant/Python/blob/main/Snake.py) - On the first Tab from the drop-down menus pick 1 currency to convert to and one currency to convert from. LOCK them and go to the second tab. There you can enter the value to be converted. 
+> - [x] [Simple Snake Game](https://github.com/nadyakant/Python/blob/main/Snake.py) - Just like we remember it from our childhood. The Snake moves with the arrows on your keyboard and grows with 1 segment every time it catches the bait. If the head touches any border, the game restarts. To win the game you must collect 20 red dots. 
 
 <p float="left">
 <img src="https://github.com/nadyakant/Python/blob/main/SnakeGame.png" width="400" height="400"> 
