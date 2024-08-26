@@ -56,7 +56,7 @@ pen.color("white")
 pen.penup()
 pen.hideturtle()
 pen.goto(0, 260)
-pen.write("Score: 0  High Score: 0", align="center", font=("Courier", 24, "normal"))
+pen.write("Score: 0  High Score: 0", align="center", font=("Lucida Console", 24, "normal"))
 
 ############## FUNCTIONALITY ##############
 
@@ -127,7 +127,7 @@ while True:
         delay = 0.1
 
         pen.clear()
-        pen.write("Score: {}  High Score: {}".format(score, high_score), align="center", font=("Courier", 24, "normal"))
+        pen.write("Score: {}  High Score: {}".format(score, high_score), align="center", font=("Lucida Console", 24, "normal"))
 
 ############## CATCHING THE BAIT ##############
 
@@ -156,7 +156,7 @@ while True:
             high_score = score
 
         pen.clear()
-        pen.write("Score: {}  High Score: {}".format(score, high_score), align="center", font=("Courier", 24, "normal"))
+        pen.write("Score: {}  High Score: {}".format(score, high_score), align="center", font=("Lucida Console", 24, "normal"))
 
 ############## ALIGN SNAKE ##############
 
@@ -198,7 +198,7 @@ while True:
 
             # Update the score display
             pen.clear()
-            pen.write("Score: {}  High Score: {}".format(score, high_score), align="center", font=("Courier", 24, "normal"))
+            pen.write("Score: {}  High Score: {}".format(score, high_score), align="center", font=("Lucida Console", 24, "normal"))
 
     time.sleep(delay)
 
