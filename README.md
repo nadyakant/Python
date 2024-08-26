@@ -1,7 +1,7 @@
 # Python_Exercises_2024
 
 Practicing my Python skills through mini-projects, containing: 
-> - [x] [Currency Converter](https://github.com/nadyakant/Python/blob/main/Currency_Conversion.py) \
+> - [x] [Currency Converter](https://github.com/nadyakant/Python/blob/main/Currency_Conversion.py) 
 
 
 ![Calculator](https://github.com/nadyakant/Python/blob/main/currencyConverter_1.png)
