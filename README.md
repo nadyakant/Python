@@ -5,9 +5,6 @@ Practicing my Python skills through mini-projects, containing:
 
 <img src="https://github.com/nadyakant/Python/blob/main/currencyConverter_1.png" width="400" height="400"> 
 <img src="https://github.com/nadyakant/Python/blob/main/currencyConverter_2.png" width="400" height="400">
-![Calculator](https://github.com/nadyakant/Python/blob/main/currencyConverter_1.png)
-![Calculator](https://github.com/nadyakant/Python/blob/main/currencyConverter_2.png)
-
 
 
 
