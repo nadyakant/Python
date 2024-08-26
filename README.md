@@ -1,7 +1,7 @@
 # Python_Exercises_2024
 
 Practicing my Python skills through mini-projects, containing: 
-> - [x] [Currency Converter](https://github.com/nadyakant/Python/blob/main/Currency_Conversion.py) 
+> - [x] [Currency Converter](https://github.com/nadyakant/Python/blob/main/Currency_Conversion.py) - On the first Tab from the drop-down menus pick 1 currency to convert to and one currency to convert from. LOCK them and go to the second tab. There you can enter your value to be converted. 
 
 
 <p float="left">
