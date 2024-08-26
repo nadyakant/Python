@@ -4,7 +4,7 @@ Practicing my Python skills through mini-projects, containing:
 > - [x] [Currency Converter](https://github.com/nadyakant/Python/blob/main/Currency_Conversion.py) 
 
 
-![Calculator](https://github.com/nadyakant/Python/blob/main/currencyConverter_1.png)
+![Calculator](https://github.com/nadyakant/Python/blob/main/currencyConverter_1.png = x100)
 ![Calculator](https://github.com/nadyakant/Python/blob/main/currencyConverter_2.png)
 
 
