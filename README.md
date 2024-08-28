@@ -1,5 +1,6 @@
 # Python_Exercises
 
+
 Practicing my Python skills through mini-projects, containing: 
 > - [x] [Currency Converter](https://github.com/nadyakant/Python/blob/main/Currency_Conversion.py) - On the first Tab from the drop-down menus pick 1 currency to convert to and one currency to convert from. LOCK them and go to the second tab. There you can enter the value to be converted. 
 
@@ -13,6 +14,7 @@ Practicing my Python skills through mini-projects, containing:
 <p float="left">
 <img src="https://github.com/nadyakant/Python/blob/main/SnakeGame.png" width="400" height="400"> 
 </p>
+
 
 
 
