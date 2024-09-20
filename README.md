@@ -9,6 +9,7 @@ Practicing my Python skills through mini-projects, containing:
 <img src="https://github.com/nadyakant/Python/blob/main/currencyConverter_2.png" width="400" height="400">
 </p>
 
+
 > - [x] [Simple Snake Game](https://github.com/nadyakant/Python/blob/main/Snake.py) - Just like we remember it from our childhood. The Snake moves with the arrows on your keyboard and grows with 1 segment every time it catches the bait. If the head touches any border, the game restarts. To win the game you must collect 20 red dots. 
 
 <p float="left">
